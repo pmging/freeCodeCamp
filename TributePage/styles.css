@@ -1,0 +1,59 @@
+main {
+  background-color: #EFEEEE;
+  border-radius: 3px;
+  margin: 30px 4px;
+  font-family: 'Roboto', 'Segoe UI', 'Arial';
+}
+
+header, figcaption, h2, h3 {
+  text-align: center;
+}
+
+h1 {
+  padding-top: 40px;
+  font-size: 2.5em;
+}
+
+figure {
+  background-color: white;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figcaption {
+  padding: 20px 20px 0;
+}
+
+section {
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.8;
+}
+
+h3, blockquote {
+  margin: 50px 0;
+}
+
+li {
+  margin: 15px 0;
+}
+
+blockquote {
+  font-style: italic;
+  font-family: Times New Roman;
+}
+
+li::first-letter {
+  font-style: bold;
+}
+
+.wiki {
+  padding-bottom: 50px;
+}
+
